@@ -1,5 +1,7 @@
 Del 1 – Fysisk nettverk
+
 Kravspesifikasjon
+
 1.SERVER01 og CLIENT01 skal kunne kommunisere i det fysiske labnettet.
 2. SERVER01 skal ha fast IP-adresse.
 3.CLIENT01 skal kunne få nettverksinnstillinger fra ruteren med DHCP.
