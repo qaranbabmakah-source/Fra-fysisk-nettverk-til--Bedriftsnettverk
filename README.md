@@ -10,7 +10,9 @@ Kravspesifikasjon
 6. Klientene i Packet Tracer skal få riktige nettverksinnstillinger og kunne bruke DNS og HTTP.
 7. Nettverkene skal testes og resultatene dokumenteres.
                                      Mitt eget krav
+
 8. CLIENT01 skal kunne opprette en testfil i den delte mappen på SERVER01.
+
 <img width="753" height="534" alt="image" src="https://github.com/user-attachments/assets/5185b288-19f0-4816-b7dd-e6e590d8fa94" />
 
 
