@@ -3,15 +3,22 @@ Del 1 – Fysisk nettverk
 Kravspesifikasjon
 
 1.SERVER01 og CLIENT01 skal kunne kommunisere i det fysiske labnettet.
-2. SERVER01 skal ha fast IP-adresse.
-3.CLIENT01 skal kunne få nettverksinnstillinger fra ruteren med DHCP.
-4.CLIENT01 skal kunne bruke minst én tjeneste på SERVER01.
-5. Bedriftsnettverket i Packet Tracer skal ha flere LAN og routing mellom dem.
-6. Klientene i Packet Tracer skal få riktige nettverksinnstillinger og kunne bruke DNS og HTTP.
-7. Nettverkene skal testes og resultatene dokumenteres.
-                                     Mitt eget krav
 
-8. CLIENT01 skal kunne opprette en testfil i den delte mappen på SERVER01.
+2. SERVER01 skal ha fast IP-adresse.
+
+3.CLIENT01 skal kunne få nettverksinnstillinger fra ruteren med DHCP.
+
+4.CLIENT01 skal kunne bruke minst én tjeneste på SERVER01.
+
+5. Bedriftsnettverket i Packet Tracer skal ha flere LAN og routing mellom dem.
+
+7. Klientene i Packet Tracer skal få riktige nettverksinnstillinger og kunne bruke DNS og HTTP.
+
+9. Nettverkene skal testes og resultatene dokumenteres.
+
+                           Mitt eget krav
+
+11. CLIENT01 skal kunne opprette en testfil i den delte mappen på SERVER01.
 
 <img width="753" height="534" alt="image" src="https://github.com/user-attachments/assets/5185b288-19f0-4816-b7dd-e6e590d8fa94" />
 
